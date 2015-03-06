@@ -20,3 +20,10 @@ Contributing Writers:
 - [Erik Dietrich](http://www.daedtech.com/blog)
 - [Eric Polerecky](http://eric.polerecky.com/)
 - [Stephen Turley](http://cudacrunch.blogspot.com/)
+- [Chad Brewbaker](http://chadbrewbaker.github.io)
+
+Company Blogs Shaped Sorta Like Ours:
+
+- [8th Light](http://blog.8thlight.com)
+- [ThoughtWorks](http://www.thoughtworks.com/blogs)
+- [Thoughtbot](https://robots.thoughtbot.com)
