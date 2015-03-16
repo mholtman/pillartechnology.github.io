@@ -21,6 +21,7 @@ Contributing Writers:
 - [Eric Polerecky](http://eric.polerecky.com/)
 - [Stephen Turley](http://cudacrunch.blogspot.com/)
 - [Chad Brewbaker](http://chadbrewbaker.github.io)
+- [Rich Dammkoehler](http://ironmoose.blogspot.com)
 
 Company Blogs Shaped Sorta Like Ours:
 
