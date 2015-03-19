@@ -22,6 +22,7 @@ Contributing Writers:
 - [Stephen Turley](http://cudacrunch.blogspot.com/)
 - [Chad Brewbaker](http://chadbrewbaker.github.io)
 - [Rich Dammkoehler](http://ironmoose.blogspot.com)
+- [Jeff Hoover](http://blog.jhoover.com)
 
 Company Blogs Shaped Sorta Like Ours:
 
