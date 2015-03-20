@@ -9,6 +9,7 @@ Contributing Writers:
 - [Amitai Schlair](http://www.schmonz.com/)
 - [Butch](https://plus.google.com/u/0/+ButchHoward/posts) [Howard](http://butchhoward.blogspot.com/)
 - [Chad Brewbaker](http://chadbrewbaker.github.io)
+- [Daniel Davis](http://d2ramblings.blogspot.com/)
 - [Daniel](https://agilefantasies.wordpress.com/) [Wiebe](https://javaguys.wordpress.com/)
 - [DJ Daugherty](http://ddaugher.github.io/)
 - [Don Abney](http://donabney.blogspot.com/)
