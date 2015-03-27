@@ -36,7 +36,7 @@ here are the results! (in alphabetical order, by last name)
 
 My original request for submissions indicated that I would... 
 
-> ask for some assistance to read and one will be picked to be featured on 
+>ask for some assistance to read and one will be picked to be featured on 
 the Pillar blog. 
 
 After reading all of the submissions, I decided that the format will not be... all 
