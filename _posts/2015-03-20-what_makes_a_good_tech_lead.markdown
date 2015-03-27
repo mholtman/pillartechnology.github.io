@@ -35,6 +35,7 @@ here are the results! (in alphabetical order, by last name)
 - [Amitai Schlair](http://www.schmonz.com/2015/03/13/when-is-being-technical-lead-a-good-decision/)
 
 My original request for submissions indicated that I would... 
+
 > ask for some assistance to read and one will be picked to be featured on 
 the Pillar blog. 
 
