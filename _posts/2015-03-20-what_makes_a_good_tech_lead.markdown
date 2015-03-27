@@ -39,11 +39,12 @@ My original request for submissions indicated that I would...
 >ask for some assistance to read and one will be picked to be featured on 
 the Pillar blog. 
 
-After reading all of the submissions, I decided that the format will not be... all 
-submissions will be presented on within the post and the public can make their own 
-decisions.
+After reading all of the submissions, I decided this will no longer be the format... all 
+submissions will be presented within the post and the public can make their own 
+decision.
 
 later.
+
 DJ
 
 
