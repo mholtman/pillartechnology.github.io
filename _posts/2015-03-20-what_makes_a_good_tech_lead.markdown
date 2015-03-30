@@ -21,7 +21,23 @@ have experience... good and bad.  please write a blog with your thoughts.
 
 ---
 
-here are the results! (in alphabetical order, by last name)
+After reading all of the submissions and consulting with the oracles, I have finally made a decision.  Each submission was great
+in its own rite, but one captured all of the nuances of what it means to be a 'Pillar Tech Lead'.  Ironically, he was 
+one of the last to submit and questioned his ability to write a 'good' blog post.  Once again, Kevin shows all of us... just how it
+is supposed to be done.
+
+Thanks Kevin !
+
+[Kevin Smith](https://medium.com/@krsmes/the-tech-lead-18b9aab4a0ed)
+
+later.
+
+DJ
+
+
+
+here is a list of all of the submissions, in alphabetical order, by last name... please support all by giving each a read and leaving a 
+comment on their individual site.
 
 - [Don Abney](http://donabney.blogspot.com/2015/03/tech-lead-i-do-not-think-it-means-what.html)
 - [Chris Bernholt](https://chrisbernholt.wordpress.com/2015/03/27/how-to-spot-a-good-tech-lead/)
@@ -34,17 +50,3 @@ here are the results! (in alphabetical order, by last name)
 - [Jeff Hoover](http://blog.jhoover.com/2015/03/what-do-you-expect-from-tech-lead.html)
 - [James Kirkbride](http://jameskbride.blogspot.com/2015/03/what-is-good-tech-lead.html)
 - [Amitai Schlair](http://www.schmonz.com/2015/03/13/when-is-being-technical-lead-a-good-decision/)
-- [Kevin Smith](https://medium.com/@krsmes/the-tech-lead-18b9aab4a0ed)
-
-My original request for submissions indicated that I would... 
-
->ask for some assistance to read and one will be picked to be featured on 
-the Pillar blog. 
-
-After reading all of the submissions, I decided this will no longer be the format... all 
-submissions will be presented within the post and the public can make their own 
-decision.
-
-later.
-
-DJ
