@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Makes a Good Tech Lead!"
-date:   2015-03-27 19:32:53
+date:   2015-03-29 19:32:53
 categories: tech lead
 ---
 
@@ -48,8 +48,3 @@ decision.
 later.
 
 DJ
-
-
-
-
-
