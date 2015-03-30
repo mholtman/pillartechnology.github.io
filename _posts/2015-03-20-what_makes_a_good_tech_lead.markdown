@@ -33,7 +33,8 @@ here are the results! (in alphabetical order, by last name)
 - [Jason Hite](https://medium.com/@jasonhite/all-about-being-a-tech-lead-d69c8babfd58)
 - [Mark Holtman](https://medium.com/@mholtman/so-you-wanna-be-a-tech-lead-456323a7cbb5)
 - [Jeff Hoover](http://blog.jhoover.com/2015/03/what-do-you-expect-from-tech-lead.html)
-- [James Kirkbride](http://jameskbride.blogspot.com/2015/03/what-is-good-tech-lead.html?spref=tw)
+- [James Kirkbride](http://jameskbride.blogspot.com/2015/03/what-is-good-tech-lead.html)
+- [Amitai Schlair](http://www.schmonz.com/2015/03/13/when-is-being-technical-lead-a-good-decision/)
 - [Kevin Smith](https://medium.com/@krsmes/the-tech-lead-18b9aab4a0ed)
 
 My original request for submissions indicated that I would... 
