@@ -50,3 +50,4 @@ comment on their individual site.
 - [Jeff Hoover](http://blog.jhoover.com/2015/03/what-do-you-expect-from-tech-lead.html)
 - [James Kirkbride](http://jameskbride.blogspot.com/2015/03/what-is-good-tech-lead.html)
 - [Amitai Schlair](http://www.schmonz.com/2015/03/13/when-is-being-technical-lead-a-good-decision/)
+- [Nathan Schlehlein](http://n8dgr8.github.io/2015/03/30/tech_lead/)
