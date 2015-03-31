@@ -11,7 +11,7 @@ team, assigned the role of tech lead.
 
 I have in my mind, what a 'good' (not even a 'great') tech lead should be.  I
 then started questioning my thoughts and decided that I work with some of the
-smarted people and they will all have opinions. I asked the following...
+smartest people and they will all have opinions. I asked the following...
 
 what is a good tech lead? what makes a person capable of being a good tech 
 lead? What are the personalities/traits of this person? Why are some people 
