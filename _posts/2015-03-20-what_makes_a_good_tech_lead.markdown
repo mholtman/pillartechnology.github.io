@@ -39,15 +39,16 @@ DJ
 here is a list of all of the submissions, in alphabetical order, by last name... please support all by giving each a read and leaving a 
 comment on their individual site.
 
-- [Don Abney](http://donabney.blogspot.com/2015/03/tech-lead-i-do-not-think-it-means-what.html)
-- [Chris Bernholt](https://chrisbernholt.wordpress.com/2015/03/27/how-to-spot-a-good-tech-lead/)
-- [Michael Cibulskis](http://www.noackexpected.com/2015/03/wanted-technical-lead-what-should-i-be.html)
-- [Rich Dammkoehler](http://ironmoose.blogspot.com/2015/03/what-is-good-tech-lead.html)
-- [DJ Daugherty](http://ddaugher.github.io/what_makes_a_good_tech_lead/)
-- [Daniel Davis](http://d2ramblings.blogspot.com/)
-- [Jason Hite](https://medium.com/@jasonhite/all-about-being-a-tech-lead-d69c8babfd58)
-- [Mark Holtman](https://medium.com/@mholtman/so-you-wanna-be-a-tech-lead-456323a7cbb5)
-- [Jeff Hoover](http://blog.jhoover.com/2015/03/what-do-you-expect-from-tech-lead.html)
-- [James Kirkbride](http://jameskbride.blogspot.com/2015/03/what-is-good-tech-lead.html)
-- [Amitai Schlair](http://www.schmonz.com/2015/03/13/when-is-being-technical-lead-a-good-decision/)
-- [Nathan Schlehlein](http://n8dgr8.github.io/2015/03/30/tech_lead/)
+- [Don Abney](http://donabney.blogspot.com/2015/03/tech-lead-i-do-not-think-it-means-what.html){:target="_blank"}
+- [Chris Bernholt](https://chrisbernholt.wordpress.com/2015/03/27/how-to-spot-a-good-tech-lead/){:target="_blank"}
+- [Michael Cibulskis](http://www.noackexpected.com/2015/03/wanted-technical-lead-what-should-i-be.html){:target="_blank"}
+- [Rich Dammkoehler](http://ironmoose.blogspot.com/2015/03/what-is-good-tech-lead.html){:target="_blank"}
+- [DJ Daugherty](http://ddaugher.github.io/what_makes_a_good_tech_lead/){:target="_blank"}
+- [Daniel Davis](http://d2ramblings.blogspot.com/){:target="_blank"}
+- [Jason Hite](https://medium.com/@jasonhite/all-about-being-a-tech-lead-d69c8babfd58){:target="_blank"}
+- [Mark Holtman](https://medium.com/@mholtman/so-you-wanna-be-a-tech-lead-456323a7cbb5){:target="_blank"}
+- [Jeff Hoover](http://blog.jhoover.com/2015/03/what-do-you-expect-from-tech-lead.html){:target="_blank"}
+- [James Kirkbride](http://jameskbride.blogspot.com/2015/03/what-is-good-tech-lead.html){:target="_blank"}
+- [Amitai Schlair](http://www.schmonz.com/2015/03/13/when-is-being-technical-lead-a-good-decision/){:target="_blank"}
+- [Nathan Schlehlein](http://n8dgr8.github.io/2015/03/30/tech_lead/){:target="_blank"}
+
