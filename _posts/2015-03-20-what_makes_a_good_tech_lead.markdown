@@ -22,7 +22,7 @@ have experience... good and bad.  please write a blog with your thoughts.
 ---
 
 After reading all of the submissions and consulting with the oracles, I have finally made a decision.  Each submission was great
-in its own rite, but one captured all of the nuances of what it means to be a 'Pillar Tech Lead'.  Ironically, he was 
+in its own right, but one captured all of the nuances of what it means to be a 'Pillar Tech Lead'.  Ironically, he was 
 one of the last to submit and questioned his ability to write a 'good' blog post.  Once again, Kevin shows all of us... just how it
 is supposed to be done.
 
