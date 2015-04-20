@@ -24,8 +24,7 @@ thanks.
 
 ---
 
-These three entries are in the process of being voted on... I will update to indicate the selected post 
-after the poll is complete.
+Please enjoy the following posts... 
 
 - [Chad Brewbaker](http://chadbrewbaker.github.io/category/theory/2015/04/05/cats.html){:target="_blank"}
 - [James Hollingshead](http://jameshollingshead.blogspot.com/2015/04/encouraging-next-generation.html){:target="_blank"}
