@@ -12,7 +12,7 @@ Contributing Writers:
 - [Chris Bernholt](https://chrisbernholt.wordpress.com/)
 - [Daniel Davis](http://d2ramblings.blogspot.com/)
 - [Daniel](https://agilefantasies.wordpress.com/) [Wiebe](https://javaguys.wordpress.com/)
-- [DJ Daugherty](http://ddaugher.github.io/)
+- [DJ Daugherty](http://djdaugherty.com/)
 - [Don Abney](http://donabney.blogspot.com/)
 - [Eric Polerecky](http://eric.polerecky.com/)
 - [Erik Dietrich](http://www.daedtech.com/blog)
